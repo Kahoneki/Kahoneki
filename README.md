@@ -6,6 +6,8 @@
   
 ➕ I have a strong passion for Mathematics and Computer Science  
   
-📞 You can contact me on Discord at Kahoneki#9883 :]  
+📞 You can contact me on Discord @kahoneki :]  
   
 🎇 I'm currently working on a Minecraft clone!  
+
+🎀Daily commit streak: 6
