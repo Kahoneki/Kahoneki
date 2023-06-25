@@ -10,4 +10,4 @@
   
 🎇 I'm currently working on a Minecraft clone!  
 
-🎀Daily commit streak: 8
+🎀Daily commit streak: 9
