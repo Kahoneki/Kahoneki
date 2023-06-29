@@ -8,6 +8,6 @@
   
 📞 You can contact me on Discord @kahoneki :]  
   
-🎇 I'm currently working on a Minecraft clone!  
+🎇 I'm currently working on a Minecraft clone and implementing the marching cubes algorithm!  
 
 🎀Daily commit streak: 13
