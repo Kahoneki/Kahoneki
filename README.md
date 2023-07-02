@@ -11,3 +11,7 @@
 🎇 I'm currently working on a Minecraft clone and implementing the marching cubes algorithm!  
 
 🎀Daily commit streak: 15
+
+## Languages:
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/doc/)
