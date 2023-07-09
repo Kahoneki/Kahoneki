@@ -8,7 +8,7 @@
   
 📞 You can contact me on Discord @kahoneki :]  
   
-🎇 I'm currently working on a Minecraft clone and implementing the marching cubes algorithm!  
+🎇 I'm currently working on a tower defence game!
 
 🎀Daily commit streak: 23
 
