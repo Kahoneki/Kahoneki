@@ -8,7 +8,7 @@
   
 📞 You can contact me on Discord @kahoneki :]  
   
-🎇 I'm currently working on a tower defence game!
+🎇 I'm currently working on a Raytracer built in C++!
 
 🎀Daily commit streak: 30
 
