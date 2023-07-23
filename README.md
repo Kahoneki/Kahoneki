@@ -8,7 +8,7 @@
   
 📞 You can contact me on Discord @kahoneki :]  
   
-🎇 I'm currently working on a Raytracer built in C++!
+🎇 I'm currently working on a Raytracer built in Unity!
 
 🎀Daily commit streak: 36
 
