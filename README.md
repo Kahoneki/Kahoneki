@@ -10,7 +10,7 @@
   
 🎇 I'm currently working on a Raytracer built in Unity!
 
-🎀Daily commit streak: 37
+🎀Daily commit streak: 38
 
 ## Languages:
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
