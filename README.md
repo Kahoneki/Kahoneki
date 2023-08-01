@@ -10,7 +10,7 @@
   
 🎇 I'm currently working on the Marching Cubes Algorithm!
 
-🎀Daily commit streak: 45
+🎀Daily commit streak: 31*
 
 ## Main Languages:
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
@@ -18,3 +18,5 @@
 
 ## Wanting to Learn:
 [![C#](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.learncpp.com/)
+
+*I accidentally deleted a repo which lost the commit on June 30th, leaving a hole in my commit streak 😔😔
