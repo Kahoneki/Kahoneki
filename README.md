@@ -8,7 +8,7 @@
   
 📞 You can contact me on Discord @kahoneki :]  
   
-🎇 I'm currently working on the Marching Cubes Algorithm!
+🎇 I'm currently reading learncpp.com!
 
 🎀Daily commit streak: 35*
 
