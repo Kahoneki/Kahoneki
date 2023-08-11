@@ -8,9 +8,9 @@
   
 📞 You can contact me on Discord @kahoneki :]  
   
-🎇 I'm currently reading learncpp.com!
+🎇 I'm currently on chapter 6 of learncpp.com!
 
-🎀Daily commit streak: 41*
+🎀Daily commit streak: 42*
 
 ## Main Languages:
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
