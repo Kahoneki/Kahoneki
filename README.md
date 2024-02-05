@@ -1,6 +1,6 @@
 # Welcome to my GitHub! 🍓🍓  
   
-📚 I'm a passionate young developer starting University this September  
+📚 I'm a passionate young developer in my first year of BSc (Hons) Computer Games Technology at Abertay University with a primary focus in Graphics Programming!
   
 📌 My pronouns are she/her  
   
@@ -8,7 +8,7 @@
   
 📞 You can contact me on Discord @kahoneki :]  
   
-🎇 I'm currently learning OpenGL and following Nand2Tetris!
+🎇 I'm currently learning OpenGL!
 
 ## Main Languages:
 [![C#](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.learncpp.com/)
