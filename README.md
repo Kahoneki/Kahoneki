@@ -8,7 +8,7 @@
   
 📞 You can contact me on Discord @kahoneki :]  
   
-🎇 I'm currently learning OpenGL!
+🎇 I'm currently working on a networking project!
 
 ## Main Languages:
 [![C#](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.learncpp.com/)
