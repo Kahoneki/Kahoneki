@@ -1,6 +1,6 @@
 # Welcome to my GitHub! 🍓🍓  
   
-📚 I'm a passionate young developer in my first year of BSc (Hons) Computer Games Technology at Abertay University with a primary focus in Graphics Programming!
+📚 I'm a passionate young developer in my second year of BSc (Hons) Computer Games Technology at Abertay University with a primary focus in Graphics Programming!
   
 📌 My pronouns are she/her  
   
