@@ -8,11 +8,10 @@
   
 📞 You can contact me on Discord @kahoneki :]  
   
-🎇 I'm currently reading the OpenGL Superbible!
-
-## Main Languages:
-[![C#](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.learncpp.com/)
+🎇 I'm currently working on a custom OpenGL Render Engine!
+<br><br>
+## 
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.learncpp.com/)
+[![GLSL](https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)](https://www.khronos.org/opengl/wiki/Core_Language_(GLSL))
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-
-## Secondary Languages:
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/doc/)
