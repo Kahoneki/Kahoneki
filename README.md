@@ -8,7 +8,7 @@
   
 📞 You can contact me on Discord @kahoneki :]  
   
-🎇 I'm currently working on a backend Vulkan toolkit!
+🎇 I'm currently working on a cross-platform Vulkan/DX12/PS5 Render Engine!
 <br><br>
 ## 
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.learncpp.com/)
