@@ -11,13 +11,13 @@
 🎇 I'm currently working on a cross-platform Vulkan/DX12/PS5 Render Engine!
 <br><br>
 ## 
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge)](https://www.learncpp.com/)
-[![C#](https://img.shields.io/badge/C%23-00599C?style=for-the-badge)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![Python](https://img.shields.io/badge/Python-00599C?style=for-the-badge)](https://www.python.org/doc/)
+[![C++](https://img.shields.io/badge/C%2B%2B-AC162C?style=for-the-badge)](https://www.learncpp.com/)
+[![C#](https://img.shields.io/badge/C%23-AC162C?style=for-the-badge)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Python](https://img.shields.io/badge/Python-AC162C?style=for-the-badge)](https://www.python.org/doc/)
 <br>
 [![HLSL](https://img.shields.io/badge/HLSL-107C10?style=for-the-badge&logoColor=white)](https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl-reference)
 [![GLSL](https://img.shields.io/badge/GLSL-107C10?style=for-the-badge&logoColor=white)](https://www.khronos.org/opengl/wiki/Core_Language_(GLSL))
 <br>
-[![Vulkan](https://img.shields.io/badge/Vulkan-AC162C.svg?style=for-the-badge)](https://docs.vulkan.org/spec/latest/index.html/)
-[![DirectX12](https://img.shields.io/badge/DirectX12-AC162C?style=for-the-badge)](https://www.microsoft.com/en-us/directx)
-[![OpenGL](https://img.shields.io/badge/OpenGL-%23AC162C.svg?style=for-the-badge)](https://docs.gl/)
+[![Vulkan](https://img.shields.io/badge/Vulkan-00599C.svg?style=for-the-badge)](https://docs.vulkan.org/spec/latest/index.html/)
+[![DirectX12](https://img.shields.io/badge/DirectX12-00599C?style=for-the-badge)](https://www.microsoft.com/en-us/directx)
+[![OpenGL](https://img.shields.io/badge/OpenGL-00599C.svg?style=for-the-badge)](https://docs.gl/)
